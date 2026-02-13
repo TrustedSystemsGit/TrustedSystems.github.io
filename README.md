@@ -24,4 +24,4 @@ Modern static site for the startup.
 - JS: Extend for more interactivity
 - Update sitemap dates/URLs with your domain
 
-© 2026 Boris
+© 2026 Trusted Systems
