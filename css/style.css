@@ -18,6 +18,8 @@ body {
     max-width: fit-content();
     margin: 0 auto;
     padding: 10px;
+    position: sticky;
+    justify-content: center;
     text-align: center;
 }
 
