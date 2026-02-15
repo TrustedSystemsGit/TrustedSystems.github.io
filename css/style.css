@@ -34,7 +34,7 @@ header {
 }
 
 .logo {
-    width: 90px;
+    max-width: 90px;
     height: 50px;
     transition: transform 0.3s;
 }
